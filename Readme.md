@@ -22,7 +22,6 @@ Tasky is a simple and elegant to-do list web application built using **Flask** a
 - **Backend**: Python, Flask, Flask-SQLAlchemy
 - **Frontend**: HTML, CSS
 - **Database**: SQLite
-- **Tools**: Git, GitHub, Virtualenv
 
 ---
 
@@ -31,7 +30,7 @@ Tasky is a simple and elegant to-do list web application built using **Flask** a
 1. **Clone the repository**
 
 ```bash
-git clone [https://github.com/your-username/tasky.git](https://github.com/JanhaviP06/Tasky-To-Do-App.git)
+git clone https://github.com/JanhaviP06/Tasky-To-Do-App.git
 cd Tasky-To-Do-App
 ```
 
